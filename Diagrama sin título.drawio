@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T17:55:48.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ZeWOO86HH2YL1N0U-YTW" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T17:56:48.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="aKVWXgtiNTSY7ODhEFJS" version="24.0.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="472" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -161,22 +161,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sHYRINDFmP1QwbfJIb36-34" value="Secretaria Municipal" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="120" width="150" height="158" as="geometry" />
+          <mxGeometry x="630" y="120" width="160" height="158" as="geometry" />
         </mxCell>
         <mxCell id="sHYRINDFmP1QwbfJIb36-35" value="+ IdSecretaria: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="sHYRINDFmP1QwbfJIb36-34" vertex="1">
-          <mxGeometry y="30" width="150" height="30" as="geometry" />
+          <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CxSWfRE1SnF5_QrOWXXw-14" value="+ Nombre: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="sHYRINDFmP1QwbfJIb36-34">
-          <mxGeometry y="60" width="150" height="30" as="geometry" />
+          <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sHYRINDFmP1QwbfJIb36-42" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="sHYRINDFmP1QwbfJIb36-34" vertex="1">
-          <mxGeometry y="90" width="150" height="8" as="geometry" />
+          <mxGeometry y="90" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="sHYRINDFmP1QwbfJIb36-46" value="Imponer multas y sanciones" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="sHYRINDFmP1QwbfJIb36-34" vertex="1">
-          <mxGeometry y="98" width="150" height="30" as="geometry" />
+        <mxCell id="sHYRINDFmP1QwbfJIb36-46" value="- imponerMultas" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="sHYRINDFmP1QwbfJIb36-34" vertex="1">
+          <mxGeometry y="98" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sHYRINDFmP1QwbfJIb36-63" value="proporcionar informacion" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="sHYRINDFmP1QwbfJIb36-34" vertex="1">
-          <mxGeometry y="128" width="150" height="30" as="geometry" />
+        <mxCell id="sHYRINDFmP1QwbfJIb36-63" value="- proporcionarInformacion" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="sHYRINDFmP1QwbfJIb36-34" vertex="1">
+          <mxGeometry y="128" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sHYRINDFmP1QwbfJIb36-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.713;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="zkfFHV4jXpPFQw0GAbJ--6" edge="1">
           <mxGeometry relative="1" as="geometry">
